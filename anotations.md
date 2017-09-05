@@ -1,4 +1,4 @@
-How spie an method like fetch?
+How create an stub of fetch method?
 
 * import chai
 * import sinon
